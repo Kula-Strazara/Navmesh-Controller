@@ -1,6 +1,6 @@
 # Unity NavMesh Character Controller
 
-A complete, modular **Unity NavMesh Character Controller** system — including movement, modular input handling, animation, inverse kinematics (IK), and a prediction system for smooth movement and animation.
+A complete, modular **Unity NavMesh Character Controller** system - including movement, modular input handling, animation, inverse kinematics (IK), and a prediction system for smooth movement and animation.
 
 This controller is built for production use and designed to be easy to integrate, extend, and customize. It’s also open source and accompanies a detailed tutorial series on YouTube.
 
