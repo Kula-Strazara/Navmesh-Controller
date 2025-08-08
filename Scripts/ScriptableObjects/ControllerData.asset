@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 106e7058f33c37949aecaed67ab1d73e, type: 3}
+  m_Name: ControllerData
+  m_EditorClassIdentifier: 
+  rotationThreshold: 0.01
+  rotationSpeed: 6
+  movementSpeed: 4
+  acceleration: 8
+  navmeshCheckRadius: 0.25
+  inputSmoothSpeed: 5
+  controllerMask:
+    serializedVersion: 2
+    m_Bits: 8
+  controllerMaskHeadHit:
+    serializedVersion: 2
+    m_Bits: 1
+  controllerHandObstacleMask:
+    serializedVersion: 2
+    m_Bits: 129
+  controllerHeight: 1.75
+  headHitCheckRadius: 0.15
+  headHitSlowdown: 0.25
+  handObstacleCheckDistance: 0.25
+  handObstacleCheckRadius: 0.05
+  handObstacleCheckHeight: 1.2
+  modelRootYAlignSpeed: 7
+  walkSpeedMulti: 0.25
+  walkRotationSpeedMulti: 0.25
